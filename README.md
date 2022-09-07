@@ -183,4 +183,4 @@ The Coffee Shop Owner Flow
 ![Coffee-Shop-Wireframe](https://user-images.githubusercontent.com/46889947/182211023-46df8741-8b23-4f7d-96f5-3bb24bc20277.png)
 
 ## Demo
-<img src="./images/loyalBeanSignUpLogIn.gif" styles={size'40px'} />
+<img src="./images/loyalBeanSignUpLogIn.gif" />
